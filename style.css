@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+    padding: 1px;
+    text-align: center;
+    width: 100%;
+    background-color: bisque;
+}
+
+
+input[type=text], input[type=password]{
+width: 20%;
+padding: 7px 10px;
+margin: 10px 0;
+display: inline-block;
+border: 1px solid wheat;
+box-sizing: border-box;
+}
+
+button{
+    background-color: blue;
+    width: 10%;
+    padding: 9px 5px;
+    margin: 10px 0px 0px 35px;
+    cursor: pointer;
+    border: none; 
+}
+
